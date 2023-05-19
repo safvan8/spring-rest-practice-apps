@@ -1,0 +1,48 @@
+# Ignore .class files
+*.class
+
+# Ignore jar and war files
+*.jar
+*.war
+
+# Ignore target directory and all subdirectories
+/target/
+**/target/
+
+# Ignore build directories and files
+target/
+bin/
+build/
+.gradle/
+.idea/
+.mvn/
+out/
+build.xml
+
+# Ignore JAR files
+*.jar
+
+# Ignore hidden files and directories
+.*
+!.gitignore
+!.gitattributes
+
+# Ignore DS_Store files on macOS
+*.DS_Store
+
+# Ignore Thumbs.db files on Windows
+Thumbs.db
+
+# Ignore Eclipse files
+.project
+.classpath
+.settings/
+.metadata/
+
+# Ignore NetBeans files
+nbproject/
+build/
+nbbuild/
+dist/
+nbdist/
+nbactions.xml
