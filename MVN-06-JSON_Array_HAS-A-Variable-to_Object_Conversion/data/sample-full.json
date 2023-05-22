@@ -1,0 +1,10 @@
+{
+	"id": 10,
+	"customerName": "sachin Tendulakr",
+	"address": {
+		"street": "25/1",
+		"city": "Mumbai",
+		"state": "Maharashtra"
+	},
+	"languages": ["Java","Javascript","python" ]
+}
